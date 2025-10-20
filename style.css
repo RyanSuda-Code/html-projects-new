@@ -1,0 +1,20 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #1B3C53;
+    color: #D2C1B6;
+}
+
+.intro { 
+    
+}
+
+a {
+  color: #4FC3F7;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #81D4FA;
+  text-decoration: underline;
+}
